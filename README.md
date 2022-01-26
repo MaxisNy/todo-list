@@ -6,3 +6,6 @@ The application is written using HTML, SASS, and JavaScript. Designed with acces
 
 # How to use
 Type in the activity you would like to add to the list in the field at the top of the window. Press the "+" button or hit **ENTER**. Once the activity is finished, click on the checkbox beside that activity or on the name itself to remove it. To remove all activities at once use the "Clear" button.
+
+# Inspired by
+freeCodeCamp.org
